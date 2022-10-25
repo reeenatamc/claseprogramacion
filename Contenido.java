@@ -10,7 +10,7 @@ public class Contenido {
         System.out.println("El Byte es el conjunto de 8 bits y representa la unidad mínima de almacenamiento de un computador");
         System.out.println("Algunos de los múltiplos del byte son el kilobyte, megabyte, gigabyte, tetabyte, etc");
         System.out.println("Hay una jerarquía de datos que permite representar la información digitalmente");
-        System.out.println("Los tipos de datos básicos son los enteros, reales, cadena de texto, caracter, booleano.");
+        System.out.println("Algunos de los tipos de datos básicos son los enteros, reales, cadena de texto, caracter, booleano.");
         System.out.println("La programación da vida al hardware");
         System.out.println("La programación es importante porque comunica instrucciones a los dispositivos");
         System.out.println("Un software es un conjunto de instrucciones que permiten ordenar a la computadora el proceso para resolver un problema");
